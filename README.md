@@ -1,7 +1,18 @@
 # Currency Convert App Using Firebase
+Currency Convert App Using Firebase application 📱 built using Java ♨️ and showing best practices of 🛠️ FireBase and API
+
+# ⚙️ Features 
+1. Enter your Initial Currency Amount
+2. Set Initial and Final Currency
+3. Get your desired currency
 
 
-Video :
+
+# ⚙️ Technology Used
+
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank">  
+
+# 📷 Video :
 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=L0DP9PK7jPM
